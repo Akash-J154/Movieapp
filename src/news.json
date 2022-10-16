@@ -1,0 +1,82 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Madeline Buckley",
+      "title": "Legal experts: Supreme Court decision on school prayer erodes protections for students against religious coercion",
+      "description": "Illinois teachers unions Monday criticized a U.S. Supreme Court decision that ruled in favor of a Washington high school football coach who lost his job after he persisted in praying on the field despite objections from the school district.",
+      "url": "https://www.chicagotribune.com/news/breaking/ct-supreme-court-decision-school-prayer-illinois-20220627-4jx3mig7ijhajopefbl7mqnnja-story.html",
+      "urlToImage": "https://www.chicagotribune.com/resizer/wUuA55J4znhqrbBdEoYakBMr9nI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/7L4M4YPDBRHS7IIWG2DQQSRSTI.jpg",
+      "publishedAt": "2022-06-27T23:15:00+00:00",
+      "content": "Illinois teachers unions Monday criticized a U.S. Supreme Court decision that ruled in favor of a Washington high school football coach who lost his job after he persisted in praying on the field des… [+5422 chars]"
+    },
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "Paul Blumenthal",
+      "title": "Neil Gorsuch 'Misconstrues The Facts' In School Prayer Case",
+      "description": "A praying football coach was said to offer a “deceitful narrative” that Supreme Court conservatives were nonetheless happy to accept.",
+      "url": "https://www.huffpost.com/entry/bremerton-school-prayer-joseph-kennedy_n_62ba18c2e4b0326883a8a9b8",
+      "urlToImage": "https://img.huffingtonpost.com/asset/62ba18eb21000029445ee881.jpeg?ops=1778_1000",
+      "publishedAt": "2022-06-27T22:56:06Z",
+      "content": "The conservative Supreme Court supermajority ruled on Monday that public school employees may offer public religious prayers while working on school property.\r\nThe 6-3 decision, written by Justice Ne… [+14466 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Jess Bravin",
+      "title": "Supreme Court Says High School Coach Can Pray on Field",
+      "description": "The high court ruled a high-school football coach who lost his job after praying on the field following a game had a First Amendment right to publicly exercise his faith.",
+      "url": "https://www.wsj.com/articles/supreme-court-says-high-school-football-coach-can-pray-at-50-yard-line-11656339266?mod=hp_lead_pos4",
+      "urlToImage": "https://images.wsj.net/im-557684/social",
+      "publishedAt": "2022-06-27T21:59:00Z",
+      "content": "WASHINGTONThe Supreme Court, siding with a football coach who knelt in prayer at the 50-yard line, ruled 6-3 that a school district cannot bar him from publicly exercising his faith on the field afte… [+287 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Supreme Court sides with football coach who prayed after games. Here's a breakdown of the decision.",
+      "description": "The case centered on former coach Joe Kennedy's prayers on the 50-yard line after high school football games and questions about religious freedom.",
+      "url": "https://www.usatoday.com/story/news/politics/2022/06/27/supreme-court-football-coach-prayer-breakdown/7747074001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/06/14/USAT/70399c13-1873-4b89-bac4-3595a9a049c5-GTY_1393643535.jpg?auto=webp&crop=8191,4607,x0,y752&format=pjpg&width=1200",
+      "publishedAt": "2022-06-27T20:17:39+00:00",
+      "content": "<ul><li>The Supreme Court ruled 6-3 Monday in favor of a former high school football coach who prayed after games.</li><li>The decision followed a recent ruling that schools offering religious instru… [+7473 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Rebecca Cohen, Oma Seddiq",
+      "title": "Sotomayor: SCOTUS decision backing coach prayer 'misconstrues the facts'",
+      "description": "Justice Sotomayor said the Supreme Court's decision to side with a praying football coach would force states to \"entangle themselves with religion.\"",
+      "url": "http://www.businessinsider.com/sotomayor-supreme-court-decision-backing-coach-prayer-misconstrues-facts-2022-6",
+      "urlToImage": "https://i.insider.com/62b9cfc8f921d30018038874?width=1200&format=jpeg",
+      "publishedAt": "2022-06-27T15:43:21Z",
+      "content": "Justice Sonia Sotomayor on Monday hit back at the Supreme Court's conservative majority, saying its decision siding with a former football coach who prayed on the field after games \"misconstrues the … [+3170 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider-uk",
+        "name": "Business Insider (UK)"
+      },
+      "author": "Rebecca Cohen, Oma Seddiq",
+      "title": "Sotomayor: SCOTUS decision backing coach prayer 'misconstrues the facts'",
+      "description": "Justice Sotomayor said the Supreme Court's decision to side with a praying football coach would force states to \"entangle themselves with religion.\"",
+      "url": "http://uk.businessinsider.com/sotomayor-supreme-court-decision-backing-coach-prayer-misconstrues-facts-2022-6",
+      "urlToImage": "https://i.insider.com/62b9cfc8f921d30018038874?width=1200&format=jpeg",
+      "publishedAt": "2022-06-27T15:43:21Z",
+      "content": "Justice Sonia Sotomayor on Monday hit back at the Supreme Court's conservative majority, saying its decision siding with a former football coach who prayed on the field after games \"misconstrues the … [+3170 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
